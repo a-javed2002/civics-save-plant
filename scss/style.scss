@@ -6,10 +6,10 @@
 /* [Master Stylesheet] */
 
 /*
-Template Name: Alazea - Gardening &amp; Landscaping HTML Template
+Template Name: Eco-Warriors - Gardening &amp; Landscaping HTML Template
 Template Author: Colorlib
 Template Author URI: http://colorlib.com
-Text Domain: Alazea, Gardening & Landscaping
+Text Domain: Eco-Warriors, Gardening & Landscaping
 Version: - v1.0
 */
 
@@ -345,9 +345,9 @@ img {
     }
 }
 
-/* :: 3.8.0 alazea Button */
+/* :: 3.8.0 Eco-Warriors Button */
 
-.alazea-btn {
+.Eco-Warriors-btn {
     @include trans-duration(400ms);
     position: relative;
     z-index: 1;
@@ -481,7 +481,7 @@ img {
         }
     }
 
-    .alazea-main-menu {
+    .Eco-Warriors-main-menu {
         position: relative;
         z-index: 1;
         @include trans-duration(200ms);
@@ -631,7 +631,7 @@ img {
         }
     }
     .is-sticky {
-        .alazea-main-menu {
+        .Eco-Warriors-main-menu {
             background-color: $dark-color;
             position: fixed;
             width: 100%;
@@ -1783,7 +1783,7 @@ img {
     }
 }
 
-.alazea-progress-bar {
+.Eco-Warriors-progress-bar {
     position: relative;
     z-index: 1;
     margin-top: 40px;
@@ -1873,7 +1873,7 @@ img {
     }
 }
 
-.alazea-video-area {
+.Eco-Warriors-video-area {
     position: relative;
     z-index: 1;
     border-radius: 6px;
@@ -1962,7 +1962,7 @@ img {
 
 /* :: 15.0 Portfolio Area CSS */
 
-.alazea-portfolio-filter {
+.Eco-Warriors-portfolio-filter {
     position: relative;
     z-index: 1;
     text-align: center;
@@ -1987,7 +1987,7 @@ img {
     }
 }
 
-.alazea-portfolio {
+.Eco-Warriors-portfolio {
     &.row {
         margin-right: -10px;
         margin-left: -10px;
